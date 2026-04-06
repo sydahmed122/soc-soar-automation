@@ -97,6 +97,10 @@ The project was deployed on Google Cloud Platform (GCP) using multiple Virtual M
 <p align="center">
   <img src="./thehive_alert.png" width="900"/>
 </p>
+
+<p align="center">
+  <img src="./Thehive_alert.png" width="900"/>
+</p>
 ##  Email Notification
 
 <p align="center">
