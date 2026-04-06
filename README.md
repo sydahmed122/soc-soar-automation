@@ -15,7 +15,8 @@ Additionally, the project demonstrates how security alerts can be enriched with 
 ##  Architecture
 
 Wazuh → Shuffle → VirusTotal → TheHive
-## 🏗️ SOC Automation Architecture
+
+##  SOC Automation Architecture
 <p align="center">
   <img src="./Architecture.png" width="800"/>
 </p>
@@ -55,9 +56,23 @@ Wazuh → Shuffle → VirusTotal → TheHive
 ##  Screenshots
 
 - Wazuh Alert  
-- Shuffle Workflow  
-- VirusTotal Response  
+- Shuffle Workflow
+- <p align="center">
+  <img src="./shuffle workflow.png" width="900"/>
+</p>
+- VirusTotal Response
+<p align="center">
+  <img src="./virus total response.png" width="900"/>
+</p>
 - TheHive Case  
+<p align="center">
+  <img src="./thehive alert.png" width="900"/>
+</p>
+##  Email Notification
+
+<p align="center">
+  <img src="./email notification.png" width="900"/>
+</p>
 
 ---
 
