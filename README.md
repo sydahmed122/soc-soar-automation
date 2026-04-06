@@ -15,7 +15,7 @@ Additionally, the project demonstrates how security alerts can be enriched with 
 ##  Architecture
 
 Wazuh → Shuffle → VirusTotal → TheHive
-
+architecture.drawio
 ---
 
 ##  Tools Used
