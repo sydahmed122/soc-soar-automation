@@ -29,6 +29,33 @@ Wazuh → Shuffle → VirusTotal → TheHive
 
 ---
 
+###  Infrastructure (Google Cloud Platform)
+
+The project was deployed on Google Cloud Platform (GCP) using multiple Virtual Machines to simulate a real-world SOC environment.
+
+###  Virtual Machines Setup
+
+- **Wazuh Server VM**
+  - Hosted Wazuh Manager for log collection and threat detection
+  - Configured to receive telemetry from Windows endpoint
+  - Generated alerts based on suspicious activity (e.g., Mimikatz detection)
+
+- **Shuffle SOAR VM**
+  - Deployed Shuffle for security orchestration and automation
+  - Configured workflows to process alerts received from Wazuh
+  - Integrated with VirusTotal and TheHive APIs
+
+- **TheHive VM**
+  - Deployed TheHive for incident response and case management
+  - Automatically created cases based on enriched alerts
+
+- **Windows 10 VM (Telemetry Endpoint)**
+  - Used to simulate endpoint activity
+  - Generated logs and attack scenarios (e.g., credential dumping using Mimikatz)
+  - Forwarded logs to Wazuh
+
+---
+
 ##  Workflow
 
 1. Wazuh generates a security alert  
