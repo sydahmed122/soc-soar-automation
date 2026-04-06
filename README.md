@@ -1,12 +1,8 @@
 # soc-soar-automation
 SOC automation using Wazuh, Shuffle SOAR, VirusTotal, and TheHive for alert enrichment and incident response.
-# 🛡️ SOC SOAR Automation
-
-SOC automation using Wazuh, Shuffle SOAR, VirusTotal, and TheHive for alert enrichment and incident response.
-
 ---
 
-## 🎯 Objective
+##  Objective
 
 The objective of this project is to design and implement an automated Security Operations Center (SOC) workflow using SOAR principles to enhance threat detection, alert enrichment, and incident response efficiency.
 
@@ -16,13 +12,13 @@ Additionally, the project demonstrates how security alerts can be enriched with 
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 Wazuh → Shuffle → VirusTotal → TheHive
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 
 - Wazuh (SIEM & Alert Detection)
 - Shuffle (SOAR Automation)
@@ -31,7 +27,7 @@ Wazuh → Shuffle → VirusTotal → TheHive
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. Wazuh generates a security alert  
 2. Alert is sent to Shuffle via webhook  
@@ -45,7 +41,7 @@ Wazuh → Shuffle → VirusTotal → TheHive
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 
 - Automated alert enrichment  
 - Threat intelligence integration  
@@ -55,9 +51,7 @@ Wazuh → Shuffle → VirusTotal → TheHive
 - Simulated attack scenarios to validate alert detection and automation workflow  
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here)
+##  Screenshots
 
 - Wazuh Alert  
 - Shuffle Workflow  
@@ -66,7 +60,7 @@ Wazuh → Shuffle → VirusTotal → TheHive
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - SIEM Integration  
 - SOAR Automation  
@@ -76,6 +70,6 @@ Wazuh → Shuffle → VirusTotal → TheHive
 
 ---
 
-## 📌 Note
+##  Note
 
 This project demonstrates a real-world SOC automation pipeline for improving detection and response efficiency.
