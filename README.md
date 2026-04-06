@@ -55,7 +55,6 @@ Wazuh → Shuffle → VirusTotal → TheHive
 
 ##  Screenshots
 
-- Wazuh Alert  
 - Shuffle Workflow
 - <p align="center">
   <img src="./shuffle workflow.png" width="900"/>
