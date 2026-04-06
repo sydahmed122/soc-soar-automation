@@ -56,21 +56,24 @@ Wazuh → Shuffle → VirusTotal → TheHive
 ##  Screenshots
 
 - Shuffle Workflow
+- 
 - <p align="center">
-  <img src="./shuffle workflow.png" width="900"/>
+  <img src="./shuffle_workflow.png" width="900"/>
 </p>
 - VirusTotal Response
+
 <p align="center">
-  <img src="./virus total response.png" width="900"/>
+  <img src="./virustotal_response.png" width="900"/>
 </p>
 - TheHive Case  
+
 <p align="center">
-  <img src="./thehive alert.png" width="900"/>
+  <img src="./thehive_alert.png" width="900"/>
 </p>
 ##  Email Notification
 
 <p align="center">
-  <img src="./email notification.png" width="900"/>
+  <img src="./email_notification.png" width="900"/>
 </p>
 
 ---
