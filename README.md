@@ -15,8 +15,7 @@ Additionally, the project demonstrates how security alerts can be enriched with 
 ##  Architecture
 
 Wazuh → Shuffle → VirusTotal → TheHive
-Architecture.png---
-
+Architecture.png
 ##  Tools Used
 
 - Wazuh (SIEM & Alert Detection)
